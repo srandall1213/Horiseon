@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ h1 {
     color: #d9dcd6;
 }
 
+/*Navigation*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,6 +48,7 @@ a {
     text-decoration: none;
 }
 
+/*Cover Image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -54,12 +57,14 @@ a {
     background-position: center;
 }
 
+/*Main Area Formating*/
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Search Engine Optimization Section*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -87,6 +92,7 @@ p {
     font-size: 16px;
 }
 
+/*Online Reputation Management Section*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,6 +116,7 @@ p {
     font-size: 36px;
 }
 
+/*Social Media Marketing Section*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,6 +135,7 @@ p {
     font-size: 36px;
 }
 
+/*Right Aside Column Formatting*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,6 +147,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Lead Generation Section*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -155,6 +164,7 @@ p {
     max-width: 150px;
 }
 
+/*Brand Awareness Section*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -171,6 +181,7 @@ p {
     max-width: 150px;
 }
 
+/*Cost Management Section*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -187,6 +198,7 @@ p {
     max-width: 150px;
 }
 
+/*Footer Formatting*/
 footer {
     padding: 30px;
     clear: both;
