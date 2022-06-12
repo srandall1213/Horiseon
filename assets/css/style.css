@@ -64,6 +64,10 @@ main {
     margin-left: 20px;
 }
 
+p {
+    font-size: 16px;
+}
+
 /*Search Engine Optimization Section*/
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -86,10 +90,6 @@ main {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-p {
-    font-size: 16px;
 }
 
 /*Online Reputation Management Section*/
