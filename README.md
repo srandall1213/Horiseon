@@ -12,7 +12,7 @@
 
 *My project may stand out because I tried to increase the efficiency of the CSS by organizing them to follow the semantic structure of the HTML elements and included comments. 
 
-*I faced a challenge with getting the cover photo linked to the HTML instead of the CSS. I couldn't copy and paste it over. I had to find the image's relative path. I faced a similar challenge again when I put a space in the name of my screenshot and it wouldn't appear on this README file. I am also learning that multiple codes can do the same thing. I am faced with the challenge of trying to learn which ways are better and why. 
+*I faced a challenge with getting the cover photo linked to the HTML instead of the CSS. I couldn't copy and paste it over. I had to find the image's relative path. I faced a similar challenge again when I put a space in the name of my screenshot, and it wouldn't appear on this README file. I am also learning that multiple codes can do the same thing. I am faced with the challenge of trying to learn which ways are better and why. 
 
 *Features I would like to implement in the future would be to insert a video, contact information for the company, and a 'Ask a Question' form. 
 
