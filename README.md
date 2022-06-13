@@ -6,7 +6,7 @@
 
 *I built this project because I wanted the code to be easier to read and more accessible while keeping the formatting the same. 
 
-*The problems solved while working on this project were adding semantic elements, arranging elements to follow a logical structure, adding accessible alt attributes, giving the page a proper title, correcting a page link, and inserting CSS comments.
+*The problems solved while working on this project were adding semantic elements, arranging elements to follow a logical structure, consolidating the CSS, adding accessible alt attributes, giving the page a proper title, correcting a page link, and inserting CSS comments.
 
 *Through this project I learned how to link a section of page to the nav bar, how to correctly link image files, how to take a full-page scrolling screenshot, how to commit changes to GitHub, and how to make the website live.
 
